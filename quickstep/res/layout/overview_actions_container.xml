@@ -36,8 +36,8 @@
             android:id="@+id/action_screenshot"
             android:layout_gravity="center_vertical"
             style="@style/OverviewActionButton"
-            android:layout_width="60dp"
-            android:layout_height="36dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:foreground="@drawable/ic_screenshot_recents"
             android:foregroundGravity="center" />
 
@@ -51,8 +51,8 @@
             android:id="@+id/action_split"
             android:layout_gravity="center_vertical"
             style="@style/OverviewActionButton"
-            android:layout_width="60dp"
-            android:layout_height="36dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:foreground="@drawable/ic_split_screen"
             android:foregroundGravity="center"
             android:visibility="gone" />
@@ -67,8 +67,8 @@
             android:id="@+id/action_lens"
             android:layout_gravity="center_vertical"
             style="@style/OverviewActionButton"
-            android:layout_width="60dp"
-            android:layout_height="36dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:foreground="@drawable/ic_lens"
             android:foregroundGravity="center"
             android:visibility="gone" />
@@ -83,8 +83,8 @@
             android:id="@+id/action_clear_all"
             android:layout_gravity="center_vertical"
             style="@style/OverviewActionButton"
-            android:layout_width="60dp"
-            android:layout_height="36dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:foreground="@drawable/ic_clear_all"
             android:foregroundGravity="center" />
 
@@ -99,8 +99,8 @@
             android:id="@+id/kill_app"
             android:layout_gravity="center_vertical"
             style="@style/OverviewActionButton"
-            android:layout_width="60dp"
-            android:layout_height="36dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
             android:foreground="@drawable/ic_kill_app_recents"
             android:foregroundGravity="center"
             android:visibility="gone" />
